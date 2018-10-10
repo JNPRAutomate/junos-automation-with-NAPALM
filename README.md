@@ -7,4 +7,4 @@ This repo is about how to automate Junos using:
 - NAPALM pack for StackStorm
 - NAPALM integration with SaltStack
 
-The repo doc is in [wiki](https://github.com/ksator/junos-automation-with-NAPALM/wiki)   
+The repo doc is in [wiki](https://github.com/JNPRAutomate/junos-automation-with-NAPALM/wiki)   
